@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 24 21:55:43 EDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0148-0ae0-4729-000000f36aa0 
+on database directory /Users/mporter/Dropbox/Workspace/DerbyReader/MyDB with class loader sun.misc.Launcher$AppClassLoader@5f3c6654 
+Loaded from file:/Users/mporter/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b15
+user.dir=/Users/mporter/Dropbox/Workspace/DerbyReader
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

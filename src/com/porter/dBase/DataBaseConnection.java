@@ -9,7 +9,7 @@ public class DataBaseConnection {
 	private String EmbedDriver = "org.apache.derby.jdbc.EmbeddedDriver";
 	String dbName = "MyDB";
 	Connection conn;
-	public void OpenDB() throws ClassNotFoundException
+	public void OpenDB(String dbName) throws ClassNotFoundException
 	{
 		
 			Class.forName(EmbedDriver);
